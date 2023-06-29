@@ -3,6 +3,7 @@
 <h2>Coding Projects:</h2>
 - [PentesterLab Command & SQL Injection Assignment](https://github.com/ctmendoz)
 
+<h2> More Info</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -11,11 +12,5 @@
 [twitter]: https://twitter.com/
 [youtube]: https://www.youtube.com/
 [linkedin]: https://linkedin.com/
-    </section>
-
-    <section id="additional-info">
-        <h2>Additional Information</h2>
-        <p>Include any additional information or sections you'd like to showcase in your portfolio, such as awards, certifications, or testimonials.</p>
-    </section>
 </body>
 </html>
