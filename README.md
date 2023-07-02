@@ -1,8 +1,8 @@
 <h1>Carlos Mendoza <br/><a href="https://github.com/ctmendoz">Recent Computer Science Graduate of the University of New Orleans</a></h1>
 
 <h2>Coding Projects:</h2>
-[PentesterLab Command & SQL Injection Assignment](https://github.com/ctmendoz/PentesterLab)
-<a href="https://github.com/ctmendoz/PentesterLab">PentesterLab Command & SQL Injection Assignment</a>
+
+- <a href="https://github.com/ctmendoz/PentesterLab">PentesterLab Command & SQL Injection Assignment</a>
 
 <h2> More Info</h2>
 
