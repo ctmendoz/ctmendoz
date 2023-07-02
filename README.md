@@ -2,6 +2,7 @@
 
 <h2>Coding Projects:</h2>
 [PentesterLab Command & SQL Injection Assignment](https://github.com/ctmendoz/PentesterLab)
+<a href="https://github.com/ctmendoz/PentesterLab">PentesterLab Command & SQL Injection Assignment</a>
 
 <h2> More Info</h2>
 
