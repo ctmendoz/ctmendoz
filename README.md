@@ -1,4 +1,4 @@
-<h1>Carlos Mendoza <br/><a href="https://github.com/ctmendoz">Recent Computer Science Graduate of the University of New Orleans</a></h1>
+<h1>Carlos Mendoza <br/><a href="https://github.com/ctmendoz">Fall 2023 Computer Science Graduate</a></h1>
 
 <h2>Coding Projects:</h2>
 
@@ -13,6 +13,7 @@
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/indeed.svg" />][linkedin]
 
 [twitter]: https://twitter.com/
 [youtube]: https://www.youtube.com/
