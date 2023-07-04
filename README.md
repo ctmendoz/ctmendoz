@@ -3,6 +3,10 @@
 <h2>Coding Projects:</h2>
 
 - <a href="https://github.com/ctmendoz/PentesterLab">PentesterLab Command & SQL Injection Assignment</a>
+- <a href="https://github.com/ctmendoz">Measurement of Degree Centrality of a Dataset</a>
+- <a href="https://github.com/ctmendoz">Real Estate Database Project</a>
+- <a href="https://github.com/ctmendoz">AWS Weather App</a>
+- <a href="https://github.com/ctmendoz">Automated Password Reminder via Email</a>
 
 <h2> More Info</h2>
 
