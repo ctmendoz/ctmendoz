@@ -4,7 +4,7 @@
 
 - <a href="https://github.com/ctmendoz/PentesterLab">PentesterLab Command & SQL Injection Assignment</a>
 - <a href="https://github.com/ctmendoz/DegreeCentrality-ASNCounter">Measurement of Degree Centrality of a Dataset</a>
-- <a href="https://github.com/ctmendoz">Real Estate Database Project</a>
+- <a href="https://github.com/ctmendoz/RealEstateDatabase">Real Estate Database Project</a>
 - <a href="https://github.com/ctmendoz/AWSWeatherApp">AWS Weather App</a>
 - <a href="https://github.com/ctmendoz">Automated Password Reminder via Email</a>
 
