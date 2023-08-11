@@ -1,4 +1,4 @@
-<h1>Carlos Mendoza <br/><a href="https://github.com/ctmendoz">Fall 2023 Computer Science Graduate</a></h1>
+<h1>Carlos Mendoza <br/><a href="https://github.com/ctmendoz">Spring 2023 Computer Science Graduate</a></h1>
 
 <h2>Coding Projects:</h2>
 
