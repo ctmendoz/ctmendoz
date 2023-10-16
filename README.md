@@ -6,7 +6,7 @@
 - <a href="https://github.com/ctmendoz/DegreeCentrality-ASNCounter">Measurement of Degree Centrality of a Dataset</a>
 - <a href="https://github.com/ctmendoz/RealEstateDatabase">Real Estate Database Project</a>
 - <a href="https://github.com/ctmendoz/AWSWeatherApp">AWS Weather App</a>
-- <a href="https://github.com/ctmendoz](https://github.com/ctmendoz/EmailPasswordReminder">Automated Password Reminder via Email</a>
+- <a href="https://github.com/ctmendozhttps://github.com/ctmendoz/EmailPasswordReminder">Automated Password Reminder via Email</a>
 
 <h2> More Info</h2>
 
